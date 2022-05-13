@@ -1,0 +1,2 @@
+# Ukladani_a_nahled_kurzovnich_lictku
+Repository pro Ukladani_a_nahled_kurzovnich_lictku
